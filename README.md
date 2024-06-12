@@ -13,6 +13,7 @@ This repository contains my detailed implementations of Andrej Karpathy's [Neura
 | Makemore 3 | [BatchNorm](https://github.com/chizkidd/Karpathy-Neural-Networks-Zero-to-Hero/blob/main/004_makemore_BatchNorm/makemore_BatchNorm.ipynb) | [BatchNorm Exercises](https://github.com/chizkidd/Karpathy-Neural-Networks-Zero-to-Hero/blob/main/004_makemore_BatchNorm/BatchNorm_exercises.ipynb) 
 | Makemore 4 | [BackProp](https://github.com/chizkidd/Karpathy-Neural-Networks-Zero-to-Hero/blob/main/005_makemore_BackpropNinja/makemore_Backprop.ipynb) | - 
 | Makemore 5 | [Wavenet](https://github.com/chizkidd/Karpathy-Neural-Networks-Zero-to-Hero/blob/main/006_makemore_WaveNet/makemore_WaveNet.ipynb) | [Wavenet Exercises](https://github.com/chizkidd/Karpathy-Neural-Networks-Zero-to-Hero/blob/main/006_makemore_WaveNet/WaveNet_Exercises.ipynb)
+| GPT | [GPT](https://github.com/chizkidd/Karpathy-Neural-Networks-Zero-to-Hero/blob/main/007_GPT/gpt.ipynb) | -
 
 Still Ongoing... 
 
