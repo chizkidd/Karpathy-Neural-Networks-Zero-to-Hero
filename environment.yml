@@ -1,0 +1,20 @@
+name: neural-networks-zero-to-hero
+channels:
+  - defaults
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  - pytorch
+  - ipython
+  - pip
+  - pip:
+    - tiktoken
+    - requests
+    - transformers
+    - datasets
+    - tqdm
+    - wandb
+    - jupyter
