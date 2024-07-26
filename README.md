@@ -1,8 +1,11 @@
 # Neural Networks: Zero to Hero
 
 
-This repository contains my detailed implementations of Andrej Karpathy's [Neural Networks: Zero to Hero youtube](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) lecture series & exercises in Jupyter Notebook. The notebooks go into extreme details to ensure a proper, robust fundamental understanding of the deep learning concepts being covered. This lecture series covers neural networks and how to build them from scratch in code. The course starts with the basics of backpropagation, then proceeds to multi-layer perceptrons (MLPs), convolutional neural networks (CNNs), and finally builds up to modern deep neural networks like GPT. The course also introduces and covers diagnostic tools for understanding neural networks dynamics and performance. The field of focus in this course is language modeling (LM) because not only are language models a superb place to learn deep learning but also most of the skills learned here are immediately transferable to other fields of deep learning such as computer vision (CV).
+This repository contains my detailed implementations of Andrej Karpathy's [Neural Networks: Zero to Hero youtube](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) lecture series & exercises in Jupyter Notebook. The notebooks go into extreme details to ensure a proper, robust fundamental understanding of the deep learning concepts being covered. This lecture series covers neural networks and how to build them from scratch in code. The course starts with the basics of backpropagation, then proceeds to multi-layer perceptrons (MLPs), convolutional neural networks (CNNs), and finally builds up to modern deep neural networks like generative pre-trained transformers (GPTs). The course also introduces and covers diagnostic tools for understanding neural networks dynamics and performance. The field of focus in this course is language modeling (LM) because not only are language models a superb place to learn deep learning but also most of the skills learned here are immediately transferable to other fields of deep learning such as computer vision (CV).
 
+```
+[NN] ---> [MLP] ---> [CNN] ---> [GPT]
+```
 
 
 |  | Notebook | Exercise 
