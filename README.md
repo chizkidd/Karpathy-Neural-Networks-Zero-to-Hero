@@ -1,5 +1,6 @@
 [![Notebooks Deployment Status](https://github.com/chizkidd/Karpathy-Neural-Networks-Zero-to-Hero/actions/workflows/deploy-notebooks.yml/badge.svg)](https://github.com/chizkidd/Karpathy-Neural-Networks-Zero-to-Hero/actions/workflows/deploy-notebooks.yml)
 [![View Notebooks](https://img.shields.io/badge/View-Live%20Notebooks-blue?logo=github)](https://chizkidd.github.io/Karpathy-Neural-Networks-Zero-to-Hero/)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=chizkidd.Karpathy-Neural-Networks-Zero-to-Hero)
 
 # Neural Networks: Zero to Hero
 
