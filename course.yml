@@ -1,0 +1,5 @@
+title: "Karpathy - Neural Networks: Zero to Hero"
+credit: {text: Andrej Karpathy, url: "https://karpathy.ai/"}
+sections:
+  - {title: Lectures, match: "!*exercise*"}
+  - {title: Exercises, match: "*exercise*"}
