@@ -1,0 +1,13 @@
+name: Deploy notebooks
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  site:
+    uses: chizkidd/chizkidd.github.io/.github/workflows/notebooks-site.yml@main
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
